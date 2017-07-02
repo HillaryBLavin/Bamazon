@@ -24,22 +24,23 @@ You will also need to run **npm install** to get the right packages from the pac
 
 - In a gitBash terminal run:  **node BamazonManager.js**
 	-  After the welcom message, the manager will be given a list of actions that can be done.
-	   after each action taken the user will return to this menu
+	   After user completes each action they will return to this menu.
 	![Example Manager 1](/images/manager1.png)
 
-	-  View Products for Sale:
+	-  View Products for Sale: List all of the items in the products table
 	![Example Manager 2](/images/manager2.png)
 
-	-  View Low Inventory:
+	-  View Low Inventory:  List all items in the products table where the quantity in stock is less tha 5. 
 	![Example Manager 3](/images/manager3.png)
 
-	-  Add to Inventory:
+	-  Add to Inventory:  User is propmpted to select an item and an amount to restock.  The quantity in stock is incremented by the 
+	   user specified amount.
 	![Example Manager 4](/images/manager4.png)
 
-	-  Exit:
+	-  Add New Product:   User will be prompted for product name, department and price. 
 	![Example Manager 5](/images/manager5.png)
 
-	-  Add New Produce:
+	-  Exit:
 	![Example Manager 6](/images/manager6.png)
 
 
@@ -47,11 +48,11 @@ You will also need to run **npm install** to get the right packages from the pac
 
 -  In a gitBash terminal run:  **node BamazonExecutive.js**
 	-  After the welcom message, the manager will be given a list of actions that can be done.
-	   after each action taken the user will return to this menu
+	   After user completes each action they will return to this menu.
 	![Example Supervisor 1](/images/supervisor1.png)
 
-	-  You can view the departments, their costs, their sales, and how much money they are making:
+	-  View Product Sales by Department:  User can view the departments, their costs, their sales, and how much profit they are making:
 	![Example Supervisor 2](/images/supervisor2.png)
 
-	-  You can also add a new department:
+	-  Create New Department:  User is prompted to enter a department name, and over head costs:
 	![Example Supervisor 3](/images/supervisor3.png)
