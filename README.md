@@ -4,7 +4,7 @@ Homework Week 12 - Bamazon
 
 You will also need to run **npm install** to get the right packages from the package.json
 
-## BamazonCustomer.js
+## bamazonCustomer.js
 
 - In a gitBash terminal run:  **node bamazonCustomer.js**
 	-  After the welcome message, the items for sale will be displayed
@@ -20,7 +20,7 @@ You will also need to run **npm install** to get the right packages from the pac
 
 	
 
-## BamazonManager.js
+## bamazonManager.js
 
 - In a gitBash terminal run:  **node bamazonManager.js**
 	-  After the welcom message, the manager will be given a list of actions that can be done.
@@ -44,9 +44,9 @@ You will also need to run **npm install** to get the right packages from the pac
 	![Example Manager 6](/images/manager6.png)
 
 
-## BamazonExecutive.js
+## bamazonSupervisor.js
 
--  In a gitBash terminal run:  **node BamazonSupervisor.js**
+-  In a gitBash terminal run:  **node bamazonSupervisor.js**
 	-  After the welcom message, the manager will be given a list of actions that can be done.
 	   After user completes each action they will return to this menu.
 	![Example Supervisor 1](/images/supervisor1.png)
