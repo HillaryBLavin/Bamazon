@@ -6,7 +6,7 @@ You will also need to run **npm install** to get the right packages from the pac
 
 ## BamazonCustomer.js
 
-- In a gitBash terminal run:  **node BamazonCustomer.js**
+- In a gitBash terminal run:  **node bamazonCustomer.js**
 	-  After the welcome message, the items for sale will be displayed
 	![Example Customer 1](/images/customer1.png)
 
@@ -22,7 +22,7 @@ You will also need to run **npm install** to get the right packages from the pac
 
 ## BamazonManager.js
 
-- In a gitBash terminal run:  **node BamazonManager.js**
+- In a gitBash terminal run:  **node bamazonManager.js**
 	-  After the welcom message, the manager will be given a list of actions that can be done.
 	   After user completes each action they will return to this menu.
 	![Example Manager 1](/images/manager1.png)
@@ -46,7 +46,7 @@ You will also need to run **npm install** to get the right packages from the pac
 
 ## BamazonExecutive.js
 
--  In a gitBash terminal run:  **node BamazonExecutive.js**
+-  In a gitBash terminal run:  **node BamazonSupervisor.js**
 	-  After the welcom message, the manager will be given a list of actions that can be done.
 	   After user completes each action they will return to this menu.
 	![Example Supervisor 1](/images/supervisor1.png)
